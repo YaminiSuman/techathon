@@ -1,0 +1,6 @@
+[submodule "chatbot"]
+	path = chatbot
+	url = https://github.com/YaminiSuman/chatbot.git
+[submodule "dashboard"]
+	path = dashboard
+	url = https://github.com/YaminiSuman/dashboard.git
